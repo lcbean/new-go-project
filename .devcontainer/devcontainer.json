@@ -1,0 +1,10 @@
+{
+    "name": "New Go Project",
+    "image": "mcr.microsoft.com/devcontainers/go:latest",
+    "customizations": {
+      "vscode": {
+        "settings": {},
+        "extensions": ["ms-vscode.go"]
+      }
+    }
+  }
